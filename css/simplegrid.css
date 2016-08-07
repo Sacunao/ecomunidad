@@ -14,6 +14,7 @@
 	margin: 0;
 	padding: 0;
 	border: 0;
+	box-sizing: border-box;
 }
 
 html, body, div, span, object, iframe,
@@ -112,6 +113,7 @@ nav ul li {
 */
 .container {
 	margin: 0 auto;
+	/*width: 80%;*/
 	width: 80%;
 }
 
